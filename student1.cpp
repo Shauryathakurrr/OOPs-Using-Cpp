@@ -29,7 +29,7 @@ void input()
         if (arr[i] < 0 || arr[i] > 100)
         {
             cout << "Invalid marks! Enter again: ";
-            i--;   // repeat same subject
+            i--;
         }
     }
 }

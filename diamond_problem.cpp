@@ -1,12 +1,10 @@
-
-
 #include <iostream>
 using namespace std;
 
 class A {
 public:
     void display() {
-        cout << " tHis is Class A" << endl;
+        cout << "Class A" << endl;
     }
 };
 

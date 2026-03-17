@@ -1,9 +1,3 @@
-/*      A
-       / \
-      B   C
-       \ /
-        D
-*/
 
 
 #include <iostream>

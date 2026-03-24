@@ -20,11 +20,11 @@ void sum(int c , int d)
 };
 
 int main() {
-    test t;
+    test x;
 
-    t.sum(5);
-    t.sum(2.5);
-    t.sum(5, 10)    ;
+    x.sum(5);
+    x.sum(2.5);
+    x.sum(5, 10)    ;
 
     return 0;
 }

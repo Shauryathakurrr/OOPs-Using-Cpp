@@ -8,3 +8,6 @@ int main(){
     cout<<j<<++j<<j++<<endl;
     return 0;
 }
+
+
+//why answer is 323 331
